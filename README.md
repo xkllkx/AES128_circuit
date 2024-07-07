@@ -1,6 +1,6 @@
 # AES circuit (Advanced Encryption Standard AES128) in Verilog
 
-# Explanation:
+# Introduction:
 The Advanced Encryption Standard (AES) specifies a FIPS-approved
 cryptographic algorithm that can be used to protect electronic data. The AES algorithm is a
 symmetric block cipher that can encrypt (encipher) and decrypt (decipher) information.
@@ -11,11 +11,10 @@ and decrypt data in blocks of 128 bits
 
 <img src="https://github.com/xkllkx/AES-circuit/blob/main/AES128.png" width="50%" height="50%">
 
-# Links
+## Links
 - [Wikipedia](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 
-# Usage
-
+# Design
 ## 🔐AES Encryption：
 ```verilog
 module AES(
