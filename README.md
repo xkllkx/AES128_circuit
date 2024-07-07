@@ -1,4 +1,4 @@
-# AES circuit (Advanced Encryption Standard AES128) in Verilog
+# AES128 circuit (Advanced Encryption Standard AES128) in Verilog
 
 # Introduction:
 The Advanced Encryption Standard (AES) specifies a FIPS-approved
